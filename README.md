@@ -1,13 +1,13 @@
 # NotesApp
 
 ## To run server
-Install MongoDB locally and run it in your localhost
-cd server
-npm i
-npm i -g
-nodemon app.js
+Install MongoDB locally and run it in your localhost <br>
+cd server <br>
+npm i <br>
+npm i -g <br>
+nodemon app.js <br>
 
 ## To run client
-cd client
-npm i
+cd client <br>
+npm i <br>
 npm start
