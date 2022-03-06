@@ -4,7 +4,7 @@
 Install MongoDB locally and run it in your localhost <br>
 cd server <br>
 npm i <br>
-npm i -g <br>
+npm i -g nodemon <br>
 nodemon app.js <br>
 
 ## To run client
